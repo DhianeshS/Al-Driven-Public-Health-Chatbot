@@ -1,0 +1,62 @@
+[
+  {
+    "id": "article-1",
+    "title": "Understanding Hypertension: The Silent Threat to Heart Health",
+    "content": "Hypertension, or high blood pressure, affects millions globally but remains largely asymptomatic in its early stages, earning the name 'the silent killer.' This article covers the pathophysiology of blood pressure, the direct impact of chronic elevated pressure on arterial elasticity, and its direct linkage to heart failure and myocardial infarction. We discuss essential dietary modifications such as the DASH (Dietary Approaches to Stop Hypertension) diet, which emphasizes reducing sodium, increasing potassium intake through vegetables, and consuming whole grains. Learn the warning signs of hypertensive crises and the importance of daily blood pressure monitoring.",
+    "category": "Heart Health",
+    "read_time": "5 min read",
+    "image_url": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=600&q=80",
+    "likes": 235,
+    "bookmarks_count": 89,
+    "shares": 46,
+    "created_at": "2026-06-12T09:00:00Z"
+  },
+  {
+    "id": "article-2",
+    "title": "Demystifying Diabetes: Key Differences Between Type 1 and Type 2",
+    "content": "Though they share a name and the primary symptom of elevated blood glucose levels, Type 1 and Type 2 diabetes are distinct clinical conditions with different etiologies and treatment pathways. Type 1 is an autoimmune disease where the body's immune system attacks insulin-producing beta cells in the pancreas, requiring lifelong insulin therapy. Type 2 is primarily characterized by insulin resistance, where target tissues do not respond appropriately to insulin. This article details symptoms like polyuria and polydipsia, details key diagnostic thresholds (A1C, Fasting Blood Glucose), and explores management strategies including continuous glucose monitoring, lifestyle changes, and medication (such as Metformin and GLP-1 agonists).",
+    "category": "Diabetes",
+    "read_time": "6 min read",
+    "image_url": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=600&q=80",
+    "likes": 192,
+    "bookmarks_count": 74,
+    "shares": 31,
+    "created_at": "2026-06-14T09:00:00Z"
+  },
+  {
+    "id": "article-3",
+    "title": "Practical Mental Health Strategies: Combating Burnout and Anxiety",
+    "content": "In a fast-paced digital society, chronic stress and anxiety can severely impact neurological health, cognitive function, and emotional balance. This article outlines the biological mechanisms of stress, focusing on cortisol and adrenaline release from the adrenal glands and their long-term systemic impact (such as weakened immunity and sleep disruption). We provide actionable coping strategies: mindfulness meditation, structured sleep hygiene (avoiding blue-light screens 2 hours before bed), cognitive reframing techniques, and when to seek professional psychotherapy (such as Cognitive Behavioral Therapy or counseling). Learn to recognize the initial warning signs of clinical burnout and establish healthy workplace boundaries.",
+    "category": "Mental Health",
+    "read_time": "4 min read",
+    "image_url": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?auto=format&fit=crop&w=600&q=80",
+    "likes": 312,
+    "bookmarks_count": 145,
+    "shares": 87,
+    "created_at": "2026-06-16T09:00:00Z"
+  },
+  {
+    "id": "article-4",
+    "title": "Preventative Care: Fighting Vector-Borne Infectious Diseases",
+    "content": "Vector-borne diseases, particularly Dengue, Malaria, and Zika virus, represent a substantial global public health challenge. Transmitted by mosquito vectors, these diseases cause high morbidity and, in severe cases, mortality. This article focuses on public health preventative steps. We cover vector breeding control (eliminating open stagnant water containers), personal physical barrier protection (screens, insecticide-treated bed nets, and DEET repellents), and the symptoms of acute infection. Key signs of severe Dengue (hemorrhagic manifestations, plasma leakage) and Malaria (cyclic high fevers, hemolytic anemia) are analyzed, along with emergency guidelines for immediate clinical consultation.",
+    "category": "Infectious Diseases",
+    "read_time": "7 min read",
+    "image_url": "https://images.unsplash.com/photo-1584036561566-baf8f5f1b144?auto=format&fit=crop&w=600&q=80",
+    "likes": 180,
+    "bookmarks_count": 63,
+    "shares": 52,
+    "created_at": "2026-06-18T09:00:00Z"
+  },
+  {
+    "id": "article-5",
+    "title": "Nutrition as Medicine: Building a Resilient Immune System",
+    "content": "Nutritional science shows that dietary intake directly influences immune cell proliferation and inflammatory pathways. A diet lacking in micronutrients impairs the body's capability to defend against pathogens. This article explores the biochemical roles of key immune-boosting nutrients. Vitamin C supports cellular function and acts as an antioxidant. Vitamin D modulates immune responses and lowers infection risk. Zinc is critical for immune cell development and division. We detail whole food sources for these nutrients (citrus fruits, leafy greens, nuts, fatty fish) and discuss the balance of prebiotic and probiotic foods in nurturing a healthy gut microbiome, which houses 70% of the body's immune system.",
+    "category": "Nutrition",
+    "read_time": "5 min read",
+    "image_url": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=600&q=80",
+    "likes": 264,
+    "bookmarks_count": 110,
+    "shares": 73,
+    "created_at": "2026-06-20T09:00:00Z"
+  }
+]

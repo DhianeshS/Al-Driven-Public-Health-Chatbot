@@ -1,0 +1,26 @@
+[
+  {
+    "id": "camp-1",
+    "title": "National Dengue Awareness Month",
+    "description": "A campaign focusing on vector eradication, encouraging citizens to eliminate stagnant water and use barrier protection to reduce Aedes mosquito breeding.",
+    "target_disease": "Dengue Fever",
+    "start_date": "2026-06-01",
+    "status": "Active"
+  },
+  {
+    "id": "camp-2",
+    "title": "Beat Diabetes Initiative",
+    "description": "Public health screening camp and digital awareness program focusing on early A1C testing and diet guidelines for Type 2 Diabetes prevention.",
+    "target_disease": "Type 2 Diabetes",
+    "start_date": "2026-05-15",
+    "status": "Active"
+  },
+  {
+    "id": "camp-3",
+    "title": "Heart Healthy Cities",
+    "description": "Community walking initiatives and free blood pressure checkup booths in urban spaces to identify undiagnosed hypertension.",
+    "target_disease": "Hypertension",
+    "start_date": "2026-06-10",
+    "status": "Active"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "id": "conv-1781965644969",
+    "userId": "usr-1781965571354",
+    "title": "New Conversation",
+    "createdAt": "2026-06-20T14:27:24.969Z",
+    "updatedAt": "2026-06-20T14:27:24.969Z"
+  },
+  {
+    "id": "conv-1781965644979",
+    "userId": "usr-1781965571354",
+    "title": "New Conversation",
+    "createdAt": "2026-06-20T14:27:24.979Z",
+    "updatedAt": "2026-06-20T14:27:24.979Z"
+  },
+  {
+    "id": "conv-1781966749071",
+    "userId": "usr-patient-1",
+    "title": "New Conversation",
+    "createdAt": "2026-06-20T14:45:49.072Z",
+    "updatedAt": "2026-06-20T14:45:49.072Z"
+  },
+  {
+    "id": "conv-1781966749152",
+    "userId": "usr-patient-1",
+    "title": "New Conversation",
+    "createdAt": "2026-06-20T14:45:49.152Z",
+    "updatedAt": "2026-06-20T14:45:49.152Z"
+  },
+  {
+    "id": "conv-1781967011017",
+    "userId": "usr-patient-1",
+    "title": "New Complaint Report",
+    "createdAt": "2026-06-20T14:50:11.017Z",
+    "updatedAt": "2026-06-20T14:50:11.017Z"
+  },
+  {
+    "id": "conv-1781968570296",
+    "userId": "usr-admin-1",
+    "title": "New Conversation",
+    "createdAt": "2026-06-20T15:16:10.296Z",
+    "updatedAt": "2026-06-20T15:16:10.296Z"
+  },
+  {
+    "id": "conv-1781968591531",
+    "userId": "usr-admin-1",
+    "title": "New Complaint Report",
+    "createdAt": "2026-06-20T15:16:31.531Z",
+    "updatedAt": "2026-06-20T15:16:31.531Z"
+  }
+]

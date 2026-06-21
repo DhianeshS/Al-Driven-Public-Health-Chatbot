@@ -1,0 +1,82 @@
+[
+  {
+    "id": "tip-1",
+    "title": "Stay Hydrated Daily",
+    "content": "Drink at least 8-10 glasses of water daily. Hydration supports organ function, digestion, skin health, and energy levels. Carry a reusable water bottle as a visual reminder.",
+    "category": "Nutrition",
+    "likes": 124,
+    "bookmarks_count": 45,
+    "shares": 38,
+    "created_at": "2026-06-15T08:00:00Z"
+  },
+  {
+    "id": "tip-2",
+    "title": "Incorporate Aerobic Exercise",
+    "content": "Aim for 30 minutes of moderate aerobic activity like brisk walking or cycling at least 5 days a week. It strengthens the heart, improves blood circulation, and releases mood-boosting endorphins.",
+    "category": "Fitness",
+    "likes": 98,
+    "bookmarks_count": 32,
+    "shares": 20,
+    "created_at": "2026-06-16T08:00:00Z"
+  },
+  {
+    "id": "tip-3",
+    "title": "Prioritize Quality Sleep",
+    "content": "Adults need 7-9 hours of restful sleep per night. Sleep is crucial for immune defense, memory consolidation, cell repair, and mental health. Create a dark, cool, screen-free bedtime routine.",
+    "category": "Mental Health",
+    "likes": 210,
+    "bookmarks_count": 92,
+    "shares": 54,
+    "created_at": "2026-06-17T08:00:00Z"
+  },
+  {
+    "id": "tip-4",
+    "title": "Wash Hands Thoroughly",
+    "content": "Scrub hands with soap and water for at least 20 seconds. Hand hygiene is the single most effective way to prevent the spread of infectious pathogens, especially before meals and after using public spaces.",
+    "category": "Hygiene",
+    "likes": 156,
+    "bookmarks_count": 50,
+    "shares": 65,
+    "created_at": "2026-06-18T08:00:00Z"
+  },
+  {
+    "id": "tip-5",
+    "title": "Prevent Mosquito Breeding",
+    "content": "Empty, scrub, or cover any standing water containers near your home weekly. Mosquitoes lay eggs in water, and eliminating breeding spots is critical to prevent Dengue, Malaria, and Zika.",
+    "category": "Disease Prevention",
+    "likes": 185,
+    "bookmarks_count": 78,
+    "shares": 92,
+    "created_at": "2026-06-19T08:00:00Z"
+  },
+  {
+    "id": "tip-6",
+    "title": "Eat Whole Foods",
+    "content": "Base your meals on whole foods: fresh vegetables, fruits, whole grains, lean proteins, and healthy fats. Minimize ultra-processed foods containing high levels of added sugar, sodium, and trans fats.",
+    "category": "Nutrition",
+    "likes": 142,
+    "bookmarks_count": 61,
+    "shares": 27,
+    "created_at": "2026-06-20T08:00:00Z"
+  },
+  {
+    "id": "tip-7",
+    "title": "Take Micro-Breaks for Eye Health",
+    "content": "Practice the 20-20-20 rule: every 20 minutes, look at something 20 feet away for at least 20 seconds. This reduces digital eye strain, prevents headaches, and relaxes eye focusing muscles.",
+    "category": "Fitness",
+    "likes": 88,
+    "bookmarks_count": 40,
+    "shares": 18,
+    "created_at": "2026-06-20T10:00:00Z"
+  },
+  {
+    "id": "tip-8",
+    "title": "Practice Mindful Breathing",
+    "content": "When feeling stressed, spend 2 minutes taking slow, deep diaphragmatic breaths (inhale for 4 seconds, hold for 4, exhale for 6). This activates the parasympathetic nervous system, lowering heart rate and anxiety.",
+    "category": "Mental Health",
+    "likes": 174,
+    "bookmarks_count": 83,
+    "shares": 49,
+    "created_at": "2026-06-20T12:00:00Z"
+  }
+]
